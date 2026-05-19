@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.ckpt
+*.exe
+__pycache__/
+.conda/
+Anaconda*
+
+data/

@@ -1,0 +1,4 @@
+train: /media/ferdinand/Datos/dataset/student/images/train
+val: /media/ferdinand/Datos/dataset/student/images/val
+nc: 1
+names: ['clase0']
